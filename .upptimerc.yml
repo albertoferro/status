@@ -21,7 +21,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Page
   introTitle: "*powered entirely by GitHub."
-  introMessage: Status Page from Alberto Ferro:
+  introMessage: "Status Page from Alberto Ferro"
   navbar:
     - title: Status
       href: /
