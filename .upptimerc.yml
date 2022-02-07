@@ -14,7 +14,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://assets-global.website-files.com/611dab12bf3b89879345607d/611dab12bf3b8968d545610f_DEALMAKER-logo.svg
+  logoUrl: https://cdn2.hubspot.net/hub/7493765/hubfs/DealMaker%20Logo%20Dark.png?height=120&name=DealMaker%20Logo%20Dark.png
   name: Status Page
   introTitle: "*powered entirely by GitHub."
   introMessage: "Status Page from Alberto Ferro"
