@@ -5,12 +5,8 @@ repo: status # The name of this repository
 sites:
   - name: Dealmaker
     url: https://app.dealmaker.tech/
-  - name: Dev2
-    url: https://dev2.dealmaker-dev.com
-  - name: Dev 3
-    url: https://dev3.dealmaker-dev.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Sataging
+    url: https://staging.dealmaker-dev.com
 assignees: # Users to assign downtime issues (optional)
   - albertoferro
 status-website:
@@ -18,7 +14,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://assets-global.website-files.com/611dab12bf3b89879345607d/611dab12bf3b8968d545610f_DEALMAKER-logo.svg
   name: Status Page
   introTitle: "*powered entirely by GitHub."
   introMessage: "Status Page from Alberto Ferro"
