@@ -22,19 +22,19 @@
     "url": "https://staging.dealmaker-dev.com",
     "icon": "https://favicons.githubusercontent.com/staging.dealmaker-dev.com",
     "slug": "sataging",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 956,
-    "timeWeek": 471,
-    "timeMonth": 366,
-    "timeYear": 381,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 390,
+    "timeDay": 884,
+    "timeWeek": 501,
+    "timeMonth": 379,
+    "timeYear": 390,
     "dailyMinutesDown": {
-      "2022-03-19": 0
+      "2022-03-19": 14
     }
   }
 ]
