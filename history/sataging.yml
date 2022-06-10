@@ -1,7 +1,7 @@
 url: https://staging.dealmaker-dev.com
-status: up
-code: 200
-responseTime: 597
-lastUpdated: 2022-06-09T23:12:42.783Z
+status: down
+code: 502
+responseTime: 1255
+lastUpdated: 2022-06-10T19:45:10.385Z
 startTime: Mon Feb 07 2022 22:16:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
